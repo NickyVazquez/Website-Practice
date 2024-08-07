@@ -65,3 +65,7 @@
     text-wrap: balance;
     color: bisque;
 }
+
+.body__centerfancy {
+    font-size: 30rem;
+}
