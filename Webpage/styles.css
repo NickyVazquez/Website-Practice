@@ -67,5 +67,21 @@
 }
 
 .body__centerfancy {
-    font-size: 30rem;
+    font-size: 7rem;
+}
+
+.body__image {
+    width: 30rem
+}
+
+.body__marginhealthy {
+    margin: 9rem;
+}
+
+.body__marginfair {
+    margin: 3rem;
+}
+
+.inline {
+    display: inline-flex;
 }
